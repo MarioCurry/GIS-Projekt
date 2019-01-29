@@ -120,5 +120,13 @@ body {
       filter:saturate(200%);
       filter:brightness(200%);
       outline:0;
+}
 
+.info {
+      color: silver;
+      font-family: helvetica;
+      width: 100%;
+      height: 15%;
+      margin-top: -150px;
+      text-align: center;
 }
